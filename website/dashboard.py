@@ -5,6 +5,9 @@ import plotly.express as px
 import plotly.graph_objects as go
 import warnings
 warnings.filterwarnings("ignore")
+from pathlib import Path
+
+BASE_DIR = Path(__file__).resolve().parent
 
 
 st.set_page_config(
@@ -100,11 +103,11 @@ st.markdown("""
 # ─────────────────────────────────────────
 @st.cache_data
 def load_data():
-    matches    = pd.read_csv("clean_matches.csv",        parse_dates=["date"])
-    elo        = pd.read_csv("elo_matches.csv",          parse_dates=["date"])
-    ratings    = pd.read_csv("elo_final_ratings.csv")
-    history    = pd.read_csv("elo_history.csv",          parse_dates=["date"])
-    importance = pd.read_csv("ml_feature_importance.csv")
+    matches    = pd.read_csv(BASE_DIR / "clean_matches.csv",        parse_dates=["date"])
+    elo        = pd.read_csv(BASE_DIR / "elo_matches.csv",          parse_dates=["date"])
+    ratings    = pd.read_csv(BASE_DIR / "elo_final_ratings.csv")
+    history    = pd.read_csv(BASE_DIR / "elo_history.csv",          parse_dates=["date"])
+    importance = pd.read_csv(BASE_DIR / "ml_feature_importance.csv")
 
     try:
         predictions = pd.read_csv("ml_predictions_2026.csv", parse_dates=["date"])
