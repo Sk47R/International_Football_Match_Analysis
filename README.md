@@ -342,7 +342,6 @@ Raw CSVs (4 files, 1872 to 2026)
 
 - Dataset: [Mart Jurisoo](https://github.com/martj42/international_results) for maintaining the international football results dataset since 1872
 - Data sources: Wikipedia, rsssf.com and individual football association websites
-- Elo methodology: Inspired by [FiveThirtyEight Soccer Power Index](https://fivethirtyeight.com/methodology/how-our-club-soccer-predictions-work/) and [Club Elo](http://clubelo.com/System)
 
 ---
 
