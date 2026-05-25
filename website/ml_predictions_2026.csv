@@ -1,0 +1,73 @@
+date,home_team,away_team,home_elo,away_elo,prob_home_win,prob_draw,prob_away_win,predicted_result,favourite
+2026-06-11,Mexico,South Africa,1376.0,1146.0,64.7,23.2,12.2,Home Win,Mexico
+2026-06-11,South Korea,Czech Republic,1320.0,1257.0,47.1,24.5,28.4,Home Win,South Korea
+2026-06-12,Canada,Bosnia and Herzegovina,1330.0,1144.0,70.4,17.8,11.8,Home Win,Canada
+2026-06-12,United States,Paraguay,1294.0,1356.0,34.0,28.1,38.0,Away Win,Paraguay
+2026-06-13,Qatar,Switzerland,1082.0,1388.0,10.6,13.6,75.8,Away Win,Switzerland
+2026-06-13,Brazil,Morocco,1485.0,1434.0,46.1,29.1,24.7,Home Win,Brazil
+2026-06-13,Haiti,Scotland,1185.0,1263.0,28.7,24.3,47.0,Away Win,Scotland
+2026-06-13,Australia,Turkey,1358.0,1379.0,34.7,29.1,36.2,Away Win,Turkey
+2026-06-14,Germany,Curaçao,1433.0,1114.0,74.0,21.5,4.6,Home Win,Germany
+2026-06-14,Ivory Coast,Ecuador,1263.0,1441.0,21.2,26.5,52.3,Away Win,Ecuador
+2026-06-14,Netherlands,Japan,1451.0,1420.0,38.5,27.2,34.3,Home Win,Netherlands
+2026-06-14,Sweden,Tunisia,1238.0,1202.0,46.7,25.9,27.4,Home Win,Sweden
+2026-06-15,Belgium,Egypt,1384.0,1257.0,54.0,28.6,17.4,Home Win,Belgium
+2026-06-15,Iran,New Zealand,1360.0,1239.0,49.3,28.5,22.2,Home Win,Iran
+2026-06-15,Spain,Cape Verde,1617.0,1130.0,91.0,6.6,2.4,Home Win,Spain
+2026-06-15,Saudi Arabia,Uruguay,1169.0,1434.0,12.9,19.3,67.8,Away Win,Uruguay
+2026-06-16,France,Senegal,1542.0,1375.0,64.4,17.7,17.8,Home Win,France
+2026-06-16,Iraq,Norway,1215.0,1384.0,24.4,23.1,52.5,Away Win,Norway
+2026-06-16,Argentina,Algeria,1630.0,1309.0,70.3,23.1,6.6,Home Win,Argentina
+2026-06-16,Austria,Jordan,1337.0,1259.0,45.7,25.2,29.1,Home Win,Austria
+2026-06-17,Portugal,DR Congo,1457.0,1249.0,57.0,26.9,16.1,Home Win,Portugal
+2026-06-17,Uzbekistan,Colombia,1307.0,1493.0,19.3,26.7,54.0,Away Win,Colombia
+2026-06-17,England,Croatia,1512.0,1418.0,57.7,20.4,21.9,Home Win,England
+2026-06-17,Ghana,Panama,1117.0,1292.0,22.4,25.5,52.0,Away Win,Panama
+2026-06-18,Czech Republic,South Africa,1257.0,1146.0,56.4,24.5,19.0,Home Win,Czech Republic
+2026-06-18,Mexico,South Korea,1376.0,1320.0,47.6,28.9,23.5,Home Win,Mexico
+2026-06-18,Switzerland,Bosnia and Herzegovina,1388.0,1144.0,73.0,16.6,10.3,Home Win,Switzerland
+2026-06-18,Canada,Qatar,1330.0,1082.0,75.7,16.6,7.7,Home Win,Canada
+2026-06-19,Scotland,Morocco,1263.0,1434.0,20.4,25.5,54.1,Away Win,Morocco
+2026-06-19,Brazil,Haiti,1485.0,1185.0,74.6,20.0,5.4,Home Win,Brazil
+2026-06-19,United States,Australia,1294.0,1358.0,31.8,29.2,39.0,Away Win,Australia
+2026-06-19,Turkey,Paraguay,1379.0,1356.0,40.0,27.1,32.9,Home Win,Turkey
+2026-06-20,Germany,Ivory Coast,1433.0,1263.0,53.7,31.0,15.3,Home Win,Germany
+2026-06-20,Ecuador,Curaçao,1441.0,1114.0,81.1,14.1,4.8,Home Win,Ecuador
+2026-06-20,Netherlands,Sweden,1451.0,1238.0,59.8,21.7,18.4,Home Win,Netherlands
+2026-06-20,Tunisia,Japan,1202.0,1420.0,11.6,23.4,65.0,Away Win,Japan
+2026-06-21,Belgium,Iran,1384.0,1360.0,40.9,25.6,33.5,Home Win,Belgium
+2026-06-21,New Zealand,Egypt,1239.0,1257.0,33.6,33.2,33.2,Home Win,Egypt
+2026-06-21,Spain,Saudi Arabia,1617.0,1169.0,80.7,14.8,4.4,Home Win,Spain
+2026-06-21,Uruguay,Cape Verde,1434.0,1130.0,80.8,15.7,3.4,Home Win,Uruguay
+2026-06-22,France,Iraq,1542.0,1215.0,77.9,16.4,5.7,Home Win,France
+2026-06-22,Norway,Senegal,1384.0,1375.0,41.3,20.8,38.0,Home Win,Norway
+2026-06-22,Argentina,Austria,1630.0,1337.0,69.8,23.2,7.1,Home Win,Argentina
+2026-06-22,Jordan,Algeria,1259.0,1309.0,31.4,25.8,42.8,Away Win,Algeria
+2026-06-23,Portugal,Uzbekistan,1457.0,1307.0,59.9,27.3,12.8,Home Win,Portugal
+2026-06-23,Colombia,DR Congo,1493.0,1249.0,67.1,22.7,10.2,Home Win,Colombia
+2026-06-23,England,Ghana,1512.0,1117.0,85.3,11.2,3.5,Home Win,England
+2026-06-23,Panama,Croatia,1292.0,1418.0,25.3,28.1,46.6,Away Win,Croatia
+2026-06-24,Mexico,Czech Republic,1376.0,1257.0,51.5,30.0,18.5,Home Win,Mexico
+2026-06-24,South Africa,South Korea,1146.0,1320.0,21.5,26.9,51.6,Away Win,South Korea
+2026-06-24,Canada,Switzerland,1330.0,1388.0,34.2,29.9,35.9,Away Win,Switzerland
+2026-06-24,Bosnia and Herzegovina,Qatar,1144.0,1082.0,55.4,19.3,25.3,Home Win,Bosnia and Herzegovina
+2026-06-24,Scotland,Brazil,1263.0,1485.0,14.0,24.1,61.9,Away Win,Brazil
+2026-06-24,Morocco,Haiti,1434.0,1185.0,69.7,20.5,9.8,Home Win,Morocco
+2026-06-25,United States,Turkey,1294.0,1379.0,31.6,27.9,40.6,Away Win,Turkey
+2026-06-25,Paraguay,Australia,1356.0,1358.0,34.3,30.1,35.7,Away Win,Australia
+2026-06-25,Curaçao,Ivory Coast,1114.0,1263.0,26.2,25.9,47.9,Away Win,Ivory Coast
+2026-06-25,Ecuador,Germany,1441.0,1433.0,41.0,27.9,31.0,Home Win,Ecuador
+2026-06-25,Japan,Sweden,1420.0,1238.0,56.0,24.9,19.0,Home Win,Japan
+2026-06-25,Tunisia,Netherlands,1202.0,1451.0,13.0,23.8,63.2,Away Win,Netherlands
+2026-06-26,Egypt,Iran,1257.0,1360.0,28.9,26.2,44.9,Away Win,Iran
+2026-06-26,New Zealand,Belgium,1239.0,1384.0,26.0,27.9,46.2,Away Win,Belgium
+2026-06-26,Cape Verde,Saudi Arabia,1130.0,1169.0,33.6,29.1,37.3,Away Win,Saudi Arabia
+2026-06-26,Uruguay,Spain,1434.0,1617.0,22.2,32.0,45.9,Away Win,Spain
+2026-06-26,Norway,France,1384.0,1542.0,25.9,21.9,52.2,Away Win,France
+2026-06-26,Senegal,Iraq,1375.0,1215.0,60.2,23.3,16.5,Home Win,Senegal
+2026-06-27,Algeria,Austria,1309.0,1337.0,31.5,27.6,40.9,Away Win,Austria
+2026-06-27,Jordan,Argentina,1259.0,1630.0,9.0,15.4,75.6,Away Win,Argentina
+2026-06-27,Colombia,Portugal,1493.0,1457.0,40.8,31.0,28.2,Home Win,Colombia
+2026-06-27,DR Congo,Uzbekistan,1249.0,1307.0,30.9,28.4,40.7,Away Win,Uzbekistan
+2026-06-27,Panama,England,1292.0,1512.0,10.0,20.0,70.0,Away Win,England
+2026-06-27,Croatia,Ghana,1418.0,1117.0,77.4,17.1,5.5,Home Win,Croatia
